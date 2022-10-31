@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+body{
+    /*vw -viewport width */
+    /*vh -viewport height*/
+    width: 100vw;
+    height: 100vh;
+    background: #fbfbfb;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+
+   
+  
+}
+
+.box{
+    width: 275px;
+    height: 325px;
+    background: #fbfbfb;
+    border-radius: 10px;
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.5);
+
+}
+
